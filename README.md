@@ -1,6 +1,3 @@
-
-<![MasterHead](https://christianingul.github.io>
-
 <h1 align="center">Hi! My name is Christian Ingul</h1>
 <h3 align="center">I'm a USC Marshall M.S. in Business Analytics Graduate: Uniting Data Science & Strategy</h3>
 
