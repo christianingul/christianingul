@@ -7,7 +7,7 @@ Data & Analytics Practicioner
 I'm a USC Marshall M.S. in Business Analytics graduate specializing in Business Analytics, with a foundation in collegiate sports and consulting. My aim is to integrate Data Science and Strategic Analysis to enhance business decision-making and value generation.
 
 * 🌍  I'm based in Los Angeles
-* 🖥️  See my portfolio at [my website.](http://christianingul.github.io/)
+* 🖥️  See my portfolio at [my website.]([http://christianingul.github.io/](https://christianingul.github.io/christian_ingul.github.io/))
 * ✉️  You can contact me at [cingul@usc.edu](mailto:cingul@usc.edu)
 * 🚀  I'm currently working on [High dimensional semiconductor data.](http://tba)
 * 🧠  I'm learning Deep Learning and Linear Algebra.
