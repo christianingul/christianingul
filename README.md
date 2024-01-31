@@ -65,8 +65,5 @@ src="https://img.shields.io/github/followers/christianingul?logo=github&style=fo
 
 <a href="http://www.github.com/christianingul"><img src="https://github-readme-stats.vercel.app/api?username=christianingul&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" alt="christianingul's GitHub stats" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/christianingul/cover_letter_buddy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christianingul&repo=cover_letter_buddy&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
