@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christian Ingul
 =======================================================================================================================================
 
-Data & Analytics Practicioner
+Passionate about Data Science
 --------------
 
 I'm a USC Marshall M.S. in Business Analytics graduate specializing in Business Analytics, with a foundation in collegiate sports and consulting. My aim is to integrate Data Science and Strategic Analysis to enhance business decision-making and value generation.
