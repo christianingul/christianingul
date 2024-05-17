@@ -8,9 +8,9 @@ I'm a USC Marshall M.S. in Business Analytics graduate specializing in Business 
 
 * 🖥️  See my portfolio at [my website.](https://christianingul.github.io/christian_ingul.github.io/)
 * ✉️  You can contact me at [cingul@usc.edu](mailto:cingul@usc.edu)
-* 🚀  I'm currently working on [High dimensional semiconductor data.](https://github.com/christianingul/Semiconductor-Data-ML-Project)
+* 🚀  I'm currently working on [Advanced Facial Recognition using Deep Learning Methods.](https://github.com/christianingul/deep_learning_for_advanced_facial_recognition) 
 * 🧠  I'm learning Deep Learning and Linear Algebra.
-* 🤝  I'm open to collaborating on Automation and dimensionality reduction projects.
+* 🤝  I'm open to collaborating on Automation and Finance related projects.
 * ⚡  I am an identical twin.
 
 <a href="https://www.github.com/christianingul" target="_blank" rel="noreferrer"><img
