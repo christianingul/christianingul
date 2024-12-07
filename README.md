@@ -1,7 +1,7 @@
 # Christian Ingul
 **Data Scientist | Business Analytics Specialist | Deep Learning Enthusiast**
 
-I am a recent USC Marshall M.S. in Business Analytics graduate with a strong foundation in data science, strategic analysis, and performance optimization. With experience in collegiate sports and consulting, I blend advanced analytics with business strategy to drive data-informed decision-making, improve operational efficiency, and generate long-term value.
+I am a recent USC Marshall M.S. in Business Analytics graduate with a strong foundation in data science, strategic analysis, and performance optimization. With experience in collegiate sports, data science and consulting, I blend advanced analytics with business strategy to drive data-informed decision-making, improve operational efficiency, and generate long-term value.
 
 - **Portfolio:** [View my work and case studies](https://christianingul.github.io/christian_ingul.github.io/)
 - **Contact:** [cingul@usc.edu](mailto:cingul@usc.edu)
@@ -31,9 +31,6 @@ I am a recent USC Marshall M.S. in Business Analytics graduate with a strong fou
   </a>
   <a href="https://www.youtube.com/@user-kc8yy1zk1l" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
-  </a>
-  <a href="http://www.instagram.com/cingul" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>
 </p>
 
