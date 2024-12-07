@@ -6,8 +6,8 @@ I am a recent USC Marshall M.S. in Business Analytics graduate with a strong fou
 - **Portfolio:** [View my work and case studies](datascienceportfol.io/cingul)
 - **Contact:** [cingul@usc.edu](mailto:christianingul@gmail.com)
 - **Current Project:** Developing a GenAI powered EdTech platform (more to come)
-- **Ongoing Learning:** Deep Learning, Linear Algebra
-- **Collaboration Interests:** Automation, Finance, and Business Optimization Projects
+- **Ongoing Learning:** Applied Probability & Statistics, Linear Algebra
+- **Collaboration Interests:** Automation, GenAI, and Business Optimization Projects
 
 ---
 
