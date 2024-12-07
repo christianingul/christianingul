@@ -3,7 +3,7 @@
 
 I am a recent USC Marshall M.S. in Business Analytics graduate with a strong foundation in data science, strategic analysis, and performance optimization. With experience in collegiate sports, data science and consulting, I blend advanced analytics with business strategy to drive data-informed decision-making, improve operational efficiency, and generate long-term value.
 
-- **Portfolio:** [View my work and case studies](https://christianingul.github.io/christian_ingul.github.io/)
+- **Portfolio:** [View my work and case studies](datascienceportfol.io/cingul)
 - **Contact:** [cingul@usc.edu](mailto:christianingul@gmail.com)
 - **Current Project:** Developing a GenAI powered EdTech platform (more to come)
 - **Ongoing Learning:** Deep Learning, Linear Algebra
