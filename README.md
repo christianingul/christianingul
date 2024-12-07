@@ -1,68 +1,48 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christian Ingul
-=======================================================================================================================================
+# Christian Ingul
+**Data Scientist | Business Analytics Specialist | Deep Learning Enthusiast**
 
-Passionate about Data Science
---------------
+I am a recent USC Marshall M.S. in Business Analytics graduate with a strong foundation in data science, strategic analysis, and performance optimization. With experience in collegiate sports and consulting, I blend advanced analytics with business strategy to drive data-informed decision-making, improve operational efficiency, and generate long-term value.
 
-I'm a USC Marshall M.S. in Business Analytics graduate specializing in Business Analytics, with a foundation in collegiate sports and consulting. My aim is to integrate Data Science and Strategic Analysis to enhance business decision-making and value generation.
+- **Portfolio:** [View my work and case studies](https://christianingul.github.io/christian_ingul.github.io/)
+- **Contact:** [cingul@usc.edu](mailto:cingul@usc.edu)
+- **Current Project:** [Advanced Facial Recognition Using Deep Learning](https://github.com/christianingul/deep_learning_for_advanced_facial_recognition)
+- **Ongoing Learning:** Deep Learning, Linear Algebra
+- **Collaboration Interests:** Automation, Finance, and Business Optimization Projects
 
-* 🖥️  See my portfolio at [my website.](https://christianingul.github.io/christian_ingul.github.io/)
-* ✉️  You can contact me at [cingul@usc.edu](mailto:cingul@usc.edu)
-* 🚀  I'm currently working on [Advanced Facial Recognition using Deep Learning Methods.](https://github.com/christianingul/deep_learning_for_advanced_facial_recognition) 
-* 🧠  I'm learning Deep Learning and Linear Algebra.
-* 🤝  I'm open to collaborating on Automation and Finance related projects.
-* ⚡  I am an identical twin.
+---
 
-<a href="https://www.github.com/christianingul" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/christianingul?logo=github&style=for-the-badge&color=ef4444&labelColor=27272a" /></a>
+### Core Competencies
 
-### Skills
+- **Data Analysis & Visualization:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning & AI:** TensorFlow, Scikit-Learn, Model Deployment, Feature Engineering  
+- **Database Management:** PostgreSQL, Data Warehousing  
+- **Business Analytics & Strategy:** Forecasting, Market Research, Performance Metrics, Financial Analysis  
 
+---
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
-
-
-### Socials
+### Connect with Me
 
 <p align="left">
-  <a href="https://www.github.com/christianingul" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="http://www.instagram.com/cingul" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"  />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-    </picture>
-  </a>
   <a href="https://www.linkedin.com/in/cingul" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+  <a href="https://www.github.com/christianingul" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
   <a href="https://www.youtube.com/@user-kc8yy1zk1l" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg"  />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-    </picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
+  </a>
+  <a href="http://www.instagram.com/cingul" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>
 </p>
 
+---
 
-### Badges
+### GitHub Stats
 
-<b>My GitHub Stats</b>
+<a href="http://www.github.com/christianingul"><img src="https://github-readme-stats.vercel.app/api?username=christianingul&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" alt="Christian Ingul's GitHub stats" /></a>
 
-<a href="http://www.github.com/christianingul"><img src="https://github-readme-stats.vercel.app/api?username=christianingul&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" alt="christianingul's GitHub stats" /></a>
 
 
 
