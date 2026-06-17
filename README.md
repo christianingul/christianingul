@@ -1,45 +1,56 @@
 # Christian Ingul
-**Data Scientist | Business Analytics Specialist | Deep Learning Enthusiast**
 
-USC M.S. in Business Analytics graduate with a strong foundation in data science, strategic analysis, and performance optimization. With experience in collegiate sports, data science and consulting, I blend advanced analytics with business strategy to drive data-informed decision-making, improve operational efficiency, and generate long-term value.
+**Forward-Deployed Engineer @ EY — building GenAI systems that ship to production.**
 
-- **Portfolio:** [View my work and case studies](https://datascienceportfol.io/cingul)
-- **Contact:** [christianingul@gmail.com](mailto:christianingul@gmail.com)
-- **Current Project:** Developing a GenAI powered EdTech platform (more to come)
-- **Ongoing Learning:** Applied Probability & Statistics, Linear Algebra
-- **Collaboration Interests:** Automation, GenAI, and Business Optimization Projects
+I design and deliver GenAI systems for enterprise clients in EY's AI & Data
+practice, and I like owning the whole path — from the first conversation to the
+deployed service. I care about reliability, evaluation, and systems people
+actually use.
 
----
-
-### Core Competencies
-
-- **Data Analysis & Visualization:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning & AI:** TensorFlow, Scikit-Learn, Model Deployment, Feature Engineering  
-- **Database Management:** PostgreSQL, Data Warehousing  
-- **Business Analytics & Strategy:** Forecasting, Market Research, Performance Metrics, Financial Analysis  
+🌐 **[christianingul.com](https://christianingul.com)** — my portfolio, with an AI
+assistant you can ask anything about my work &nbsp;·&nbsp; 📍 New York, NY
+&nbsp;·&nbsp; 🎓 M.S. Business Analytics, USC
 
 ---
 
-### Connect with Me
+### What I'm building
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/cingul" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://www.github.com/christianingul" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.youtube.com/@user-kc8yy1zk1l" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
-  </a>
-</p>
+Recent work (all at EY · life sciences):
+
+- **Strategic Forecasting Copilot** — collapsed a multi-day analyst effort into a
+  few-minute chat; became a funded follow-on.
+- **Competitive Intelligence Agents** — a multi-agent + RAG system that surfaces
+  acquisition targets from data that took analysts weeks.
+- **GenAI Platform** — productionized the platform hosting EY's life-sciences
+  GenAI use cases (Docker → ACR → Azure, GitHub Actions CI/CD).
+- **Hallucination Detection Library** — Python guardrails that cut hallucinations
+  ~22% on a multi-hop Q&A benchmark.
+
+➡️ Full case studies at **[christianingul.com](https://christianingul.com)**
 
 ---
 
-### GitHub Stats
+### Tech I work with
 
-<a href="http://www.github.com/christianingul"><img src="https://github-readme-stats.vercel.app/api?username=christianingul&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" alt="Christian Ingul's GitHub stats" /></a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
+**GenAI & agents:** LangGraph · RAG · multi-agent orchestration · evals (DeepEval) · Azure OpenAI / OpenRouter
+**Backend:** Python · FastAPI · streaming (SSE)
+**Frontend:** TypeScript · React · Vite
+**Platform:** Docker · Azure Container Apps · ACR · GitHub Actions · Terraform
 
+---
 
+### Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-christianingul.com-EA7317?style=flat-square&logo=googlechrome&logoColor=white)](https://christianingul.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cingul)
+[![Email](https://img.shields.io/badge/Email-christianingul%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:christianingul@gmail.com)
